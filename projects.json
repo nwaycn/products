@@ -440,6 +440,15 @@
 			    "Src": "https://github.com/cuu/softradius_system", 
 			    "Submitter": "cuu",
 			    "Date": "2017-03-17"
-				}
+				},
+        {
+            "Name": "FSGUI",
+            "Thumb": "fsgui/thumb.jpg",
+            "Desc": "基于FreeSwitch的软交换管理,BeeGo1.7界面开发,登录用户名admin,123456",
+            "Url": "http://139.196.40.50:8080/login",
+            "Src": " ",
+            "Submitter": "nwaycn",
+            "Date": "2017-03-09"
+        }
     ]
 }
